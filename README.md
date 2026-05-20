@@ -1,2 +1,2 @@
 # image-detection
-image detection using artificial inteligence
+image detection and recogination using artificial inteligence
